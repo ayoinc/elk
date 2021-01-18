@@ -1,0 +1,6 @@
+{
+  "template" : "filebeat-*",
+  "settings" : {
+    "index.codec" : "best_compression"
+  }
+}
